@@ -1,0 +1,19 @@
+{
+  "name": "zamditer",
+  "version": "1.0.0",
+  "description": "zamditer is free text editer ! ",
+  "main": "zamditer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinsanghun/zamditer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinsanghun/zamditer/issues"
+  },
+  "homepage": "https://github.com/kinsanghun/zamditer#readme"
+}
